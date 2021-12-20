@@ -20,8 +20,7 @@ Here are some ideas to get you started:
   
 <a href="https://ismaelkg.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ismael kherroubi garcia" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismael-kg&show_icons=true&locale=en" alt="ismael-kg" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ismael-kg&show_icons=true&locale=en" alt="ismael-kg" /></p>
 
 <p align="right"> README partly created with https://rahuldkjain.github.io/gh-profile-readme-generator/ </p>
 -->
