@@ -12,15 +12,23 @@ Here are some ideas to get you started:
 - 💬 Ask me about philosophy and science, maybe!
 - 😄 Pronouns: he/they
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ismael-kg&show_icons=true&locale=en" alt="ismael-kg" /></p>
+
 <a href="https://twitter.com/hermeneuticist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hermeneuticist" height="30" width="40" /></a>
   
 <a href="https://uk.linkedin.com/in/ismaelkherroubi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael kherroubi garcia" height="30" width="40" /></a>
   
 <a href="https://ismaelkg.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ismael kherroubi garcia" height="30" width="40" /></a>
-</p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ismael-kg&show_icons=true&locale=en" alt="ismael-kg" /></p>
 
-<p align="right"> README partly created with https://rahuldkjain.github.io/gh-profile-readme-generator/ </p>
--->
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <a href="https://twitter.com/hermeneuticist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hermeneuticist" height="30" width="40" /></a>
+    <a href="https://uk.linkedin.com/in/ismaelkherroubi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael kherroubi garcia" height="30" width="40" /></a>
+    <a href="https://ismaelkg.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ismael kherroubi garcia" height="30" width="40" /></a></p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ismael-kg&show_icons=true&locale=en" alt="ismael-kg" /></p>
+  </div>
+</div>
+
+</body>
