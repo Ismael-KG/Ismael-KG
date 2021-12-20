@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hermeneuticist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hermeneuticist" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ismael kherroubi garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael kherroubi garcia" height="30" width="40" /></a>
-<a href="https://medium.com/@ismael kherroubi garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ismael kherroubi garcia" height="30" width="40" /></a>
+  
+<a href="https://uk.linkedin.com/in/ismaelkherroubi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismael kherroubi garcia" height="30" width="40" /></a>
+  
+<a href="https://ismaelkg.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ismael kherroubi garcia" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismael-kg&show_icons=true&locale=en" alt="ismael-kg" /></p>
