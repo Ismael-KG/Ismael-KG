@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismael-kg&label=Profile%20views&color=0e75b6&style=flat" alt="ismael-kg" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hermeneuticist" target="blank"><img src="https://img.shields.io/twitter/follow/hermeneuticist?logo=twitter&style=for-the-badge" alt="hermeneuticist" /></a> </p>
+[![@Hermeneuticist](https://badgen.net/badge/icon/@hermeneuticist?icon=twitter&label)](https://twitter.com/hermeneuticist)
 
 Here are some ideas to get you started:
 
