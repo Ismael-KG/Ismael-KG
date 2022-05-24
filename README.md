@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [_A History of Research Ethics_](https://github.com/Ismael-KG/A-History-of-Research-Ethics)
+- 🔭 I’m currently working on [_An Incomplete History of Research Ethics_](https://github.com/Ismael-KG/A-History-of-Research-Ethics)
 - 🌱 I’m currently learning [philosophy at the LSE](https://www.lse.ac.uk/philosophy/)
 - 💬 Ask me about philosophy and science, maybe!
 - 😄 Pronouns: he/they
